@@ -43,7 +43,7 @@ function Create(num){
         </div>
         </div>
         `  
-
+        
     document.querySelector(".btn").addEventListener("click", function(){
     var checked = document.querySelector('input[type="radio"]:checked');
     if (!checked){
